@@ -7,6 +7,7 @@
   <a href="https://www.npmjs.com/package/nuxt"><img src="https://badgen.net/npm/v/nuxt" alt="Version"></a>
   <a href="https://www.npmjs.com/package/nuxt"><img src="https://badgen.net/npm/license/nuxt" alt="License"></a>
   <a href="https://discord.nuxtjs.org/"><img src="https://badgen.net/badge/Discord/join-us/7289DA" alt="Discord"></a>
+  <a href="https://gitpod.io/#https://github.com/nuxt/nuxt.js"><img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
  </p>
  <p align="center">
   <a href="#platinum-sponsors" alt="Platinum Sponsors on Open Collective"><img src="https://opencollective.com/nuxtjs/tiers/platinum-sponsors/badge.svg" /></a>
